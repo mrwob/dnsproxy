@@ -1,0 +1,17 @@
+{
+  "name": "dnsProxy",
+  "description": "simple dns proxy allowing query overrides"
+  "main": "./dnsProxy.js",
+  "author": {
+    "name": "wob j krobtz"
+  },
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrwob/dnsproxy.git"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "native-dns": "~0.6.1",
+  }
+}
